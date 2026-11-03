@@ -13,8 +13,5 @@
   "publicCounts": {
     "reactions": true,
     "comments": true
-  },
-  "follows": {
-    "enabled": true
   }
 }
